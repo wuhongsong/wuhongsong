@@ -8,7 +8,7 @@
 
 - Ceph Contributor
 - Curve Maintainer
-- 知乎专栏作者：聊聊ceph&分布式存储专栏
+- 知乎专栏作者：聊聊ceph&分布式存储
 
   部分文章：
 
