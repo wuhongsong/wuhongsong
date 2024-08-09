@@ -18,6 +18,9 @@
 
 [存储人视角：人工智能AI + 大模型](https://zhuanlan.zhihu.com/p/693177465)
 
+[分布式(存储)文件系统设计要点与实践之愚见](https://zhuanlan.zhihu.com/p/709551187)
+
+
 
                 
 # 技术栈
