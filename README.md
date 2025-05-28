@@ -1,3 +1,14 @@
+# My GitHub Profile (我的 GitHub 主页)
+
+[English](README-en.md) | [中文](README-zh-CN.md)
+
+---
+
+This is the main README file. Please select a language version above to view detailed information.
+
+这是主 README 文件，请选择上方的语言版本以查看详细信息。
+
+
 # 个人简介
 
 15年硕士毕业于重庆大学，之后就一直从事分布式存储相关工作，目前在国内某中大型互联网企业任职资深分布式存储工程师。
