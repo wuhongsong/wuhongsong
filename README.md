@@ -2,11 +2,9 @@
 
 15年硕士毕业于重庆大学，之后就一直从事分布式存储相关工作，目前在国内某中大型互联网企业任职资深分布式存储工程师。
 
-
-
-- Ceph Contributor
 - Curve Maintainer
-- 知乎专栏作者：聊聊ceph&分布式存储
+- Ceph Contributor
+- 知乎专栏作者：[聊聊Ceph & 存储](https://zhuanlan.zhihu.com/c_1267088333848641536))
 
   部分文章：
 
