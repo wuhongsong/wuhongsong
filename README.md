@@ -4,7 +4,7 @@
 
 - Curve Maintainer
 - Ceph Contributor
-- 知乎专栏作者：[聊聊Ceph & 存储](https://zhuanlan.zhihu.com/c_1267088333848641536))
+- 知乎专栏作者：[聊聊Ceph & 存储](https://zhuanlan.zhihu.com/c_1267088333848641536)
 
   部分文章：
 
