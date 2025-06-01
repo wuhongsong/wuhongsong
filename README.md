@@ -1,4 +1,4 @@
-# My GitHub Profile (我的 GitHub 主页)
+# My GitHub Profile
 
 [English](README-en.md) | [中文](README-zh-CN.md)
 
